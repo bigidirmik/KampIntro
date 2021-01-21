@@ -61,6 +61,9 @@ namespace DegerVeReferansTipler
             // buna C gibi dillerde pointer deniyor.
             // 101/[10, 20, 30] - bunu tutan kimse yoktur bu yüzden biraz sonra .Net'in garbage collector'ı (çöp toplayıcısı) gelip,
             // "seni tutan kimse yok bu yüzden ben seni bellekten atıyorum" diyecektir.
+
+
+
         }
     }
 }
