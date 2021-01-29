@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OOP1
+namespace OOP1 // Object Oriented Programming - Nesne Yönelimli Programlama
 {
     class Program  // intentional kodlama tekniği, ihtiyaçları önce sanki varmış gibi kodluyoruz sonra onları dolduruyoruz. (niyet güdümlü kodlama)
     {
